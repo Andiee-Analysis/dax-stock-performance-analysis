@@ -1,12 +1,18 @@
-# DAX Stock Performance Analysis
+DAX Stock Performance Analysis
 
-## 📊 Project Overview
+📊 Project Overview
 
 This project analyzes the historical performance and risk characteristics of DAX\-listed equities using Microsoft Excel.
 
 The analysis transforms historical market data into a structured set of performance and risk metrics, allowing individual stocks to be evaluated and compared against the DAX benchmark.
 
-## 🎯 Objectives
+📉 Analysis Preview
+
+Historical Risk vs. Return
+
+
+
+🎯 Objectives
 
 The project explores several key questions:
 
@@ -16,8 +22,8 @@ The project explores several key questions:
 - How strongly are individual stocks correlated with the DAX?
 - How sensitive is each stock to movements in the broader market?
 - How does risk\-adjusted performance vary across companies?
-
-## 📈 Metrics Analyzed
+  
+📈 Metrics Analyzed
 
 The Excel model calculates:
 
@@ -32,8 +38,7 @@ The Excel model calculates:
 - Alpha
 - Annualized Alpha
 - R²
-
-## 🛠️ Excel Skills Demonstrated
+🛠️ Excel Skills Demonstrated
 
 This project demonstrates practical Excel skills including:
 
@@ -48,7 +53,7 @@ This project demonstrates practical Excel skills including:
 - Data organization and transformation
 - Financial data visualization
 
-## 📁 Workbook Structure
+📁 Workbook Structure
 
 **Source Data Table**
 
@@ -66,13 +71,13 @@ Structures stock and DAX benchmark returns for comparative analysis.
 
 Selected securities are visualized against the DAX benchmark to examine differences in historical performance.
 
-## 💡 Purpose
+💡 Purpose
 
 This project was created as part of my development in business analytics and quantitative analysis. It demonstrates how Excel can be used not only for spreadsheet calculations, but also as a practical tool for financial data analysis, benchmarking, and communicating analytical results.
 
-## 👤 Author
+👤 Author
 
-**Andiee**
+Andiee
 
 MSC Business Analytics & Operations Research
 
