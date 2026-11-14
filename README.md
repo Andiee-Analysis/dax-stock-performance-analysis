@@ -10,7 +10,7 @@ The analysis transforms historical market data into a structured set of performa
 
 Historical Risk vs. Return
 
-
+risk-return-analysis.png
 
 🎯 Objectives
 
