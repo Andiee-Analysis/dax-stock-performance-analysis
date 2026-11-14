@@ -12,6 +12,20 @@ Historical Risk vs. Return
 
 ![Historical Risk vs. Return](risk-return-analysis.png)
 
+🔎 Key Insights
+
+| Insight | Security | Evidence |
+| --- | --- | --- |
+| **Strongest long-term growth** | RHM | 16.0% CAGR across 300 monthly return observations, with **40.4% annualized volatility** |
+| **Strong risk-return profile** | DB1 | 10.9% CAGR, **25.3% volatility**, and **8.5% annualized alpha** across 286 observations |
+| **Lowest market sensitivity** | BEI | Beta of **0.27**, DAX correlation of **0.28**, and **19.7% annualized volatility** |
+| **Highest observed growth** | ENR | Highest CAGR at **20.3%**, but with **54.5% volatility** and only 51 observations |
+| **Weakest long-term performance** | CBK | **-10.0% CAGR**, **44.4% volatility**, and beta of **1.44** |
+
+
+Benchmark context: The DAX recorded approximately 4.3% CAGR and 20.0% annualized volatility over 300 monthly return observations.
+
+
 🎯 Objectives
 
 The project explores several key questions:
@@ -38,6 +52,7 @@ The Excel model calculates:
 - Alpha
 - Annualized Alpha
 - R²
+
 🛠️ Excel Skills Demonstrated
 
 This project demonstrates practical Excel skills including:
